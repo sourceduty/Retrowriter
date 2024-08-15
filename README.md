@@ -13,5 +13,10 @@ Here's the transformation of the modern text into the style of 18th Century Fran
 
 Jessica pénétra dans le café animé, ses yeux cherchant une place libre. L'air était embaumé du parfum du café fraîchement infusé et du bourdonnement des conversations enjouées. Elle aperçut enfin une petite table dans un coin et se fraya un chemin à travers la foule, son sac de travail en bandoulière. S'asseyant, elle ouvrit son écritoire portable et se mit à l'ouvrage, buvant parfois une gorgée de son café tout en observant les allées et venues des gens.
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
