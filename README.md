@@ -1,4 +1,4 @@
-![Retrowriter](https://github.com/sourceduty/Retrowriter/assets/123030236/50683ff7-b8b3-4f84-957f-289af2336b8f)
+![Sourceduty](https://github.com/user-attachments/assets/78d1be4a-f96f-4309-98e4-9ec208bb20b8)
 
 [Retrowriter](https://chat.openai.com/g/g-WRBOBHtSg-retrowriter) is a specialized tool developed to transform modern writing into the historical writing styles of various times and locations across the globe. This transformation isn't just about substituting old words for new ones; it involves a deep respect for the linguistic and stylistic nuances of the specified era and location. By accommodating any language, Retrowriter offers a unique way to reimagine contemporary text through the lens of the past, making it an invaluable resource for writers, historians, and enthusiasts of language.
 
@@ -6,6 +6,8 @@ The service can help in multiple ways. For writers looking to give their stories
 
 #
 ### Example Usage
+
+![Retrowriter](https://github.com/sourceduty/Retrowriter/assets/123030236/50683ff7-b8b3-4f84-957f-289af2336b8f)
 
 Jessica walked into the bustling coffee shop, her eyes scanning for an empty seat. The air was filled with the aroma of freshly brewed coffee and the hum of lively conversations. She finally spotted a small table in the corner and made her way through the crowd, her laptop bag slung over her shoulder. Sitting down, she opened her laptop and began to work, occasionally sipping her coffee and watching people come and go.
 
