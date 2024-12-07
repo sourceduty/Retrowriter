@@ -21,6 +21,16 @@ Jessica pénétra dans le café animé, ses yeux cherchant une place libre. L'ai
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Document Update](https://github.com/sourceduty/Document_Update)
+<br>
+[Book Structure](https://github.com/sourceduty/Book_Structure)
+<br>
+[Dictionary Creator](https://github.com/sourceduty/Dictionary_Creator)
+<br>
+[Frankenstein Writer](https://github.com/sourceduty/Frankenstein_Writer)
+<br>
+[Plain Text](https://github.com/sourceduty/Plain_Text)
+<br>
+[Text Emulator](https://github.com/sourceduty/Text_Emulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
